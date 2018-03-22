@@ -1,0 +1,2 @@
+# RedirectConfigurableVariationToParent
+Redirect configurable product variations to parent
